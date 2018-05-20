@@ -24,5 +24,14 @@ dependencies:
 - scikit-learn
 - scipy
 - xgboost
+- nbconvert
+- pyarrow
+- pyspark
+- sparkmagic
+- numpy
+- pandas
+- pandasql
+- matplotlib
+- plotly
 - pip:
   - tensorflow==1.8.0
